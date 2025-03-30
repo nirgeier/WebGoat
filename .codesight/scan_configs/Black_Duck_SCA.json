@@ -1,0 +1,38 @@
+{
+  "configId": {
+    "id": "a6eec7d9-acc0-4219-addb-3dbac4195374"
+  },
+  "scanType": {
+    "type": 4,
+    "name": "Black Duck SCA"
+  },
+  "blackDuckConfig": {
+    "installationLocation": {
+      "source": {
+        "type": 8
+      }
+    },
+    "additionalArguments": {
+      "source": {
+        "type": 8
+      }
+    },
+    "configFilePath": {
+      "source": {
+        "type": 8
+      }
+    },
+    "searchDepth": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "bridgeConfig": {},
+  "buildConfig": {},
+  "path": {
+    "source": {
+      "type": 8
+    }
+  }
+}
